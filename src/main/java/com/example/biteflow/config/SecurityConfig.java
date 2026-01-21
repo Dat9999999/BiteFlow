@@ -1,4 +1,4 @@
-package com.example.biteflow.controller;
+package com.example.biteflow.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
